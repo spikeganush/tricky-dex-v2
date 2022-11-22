@@ -1,4 +1,4 @@
-# Play Today App
+# Tricky Dex V2
 
 React Native project, for now build the project using xCode and Android Studio IDEs as the react native commands aren't working.
 
